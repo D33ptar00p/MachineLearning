@@ -9,3 +9,4 @@ As on today the projects consists of:
 2. Conformal predictor from scratch
 3. Lasso
 4. INductive conformal prediction and tests with Lasso
+5. K Means on image
