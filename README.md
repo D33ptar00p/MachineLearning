@@ -10,3 +10,5 @@ As on today the projects consists of:
 3. Lasso
 4. INductive conformal prediction and tests with Lasso
 5. K Means on image
+6. Random Forest
+7. Agglomerative Hierarchical Clustering
